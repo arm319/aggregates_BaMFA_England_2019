@@ -1,0 +1,16 @@
+From,to,quantity,time,location,Subprocessnumbersfrom,Subprocessnumbersto
+Manufacturing,Infrastructure,nan,2019,England,13-14-15-16-17-18-19-20,21-22-23-24-25
+Manufacturing,Buildings,nan,2019,England,13-14-15-16-17-18-19-20,26-27-28
+Crushed_Rock_td,Use,nan,2019,England,46,21-22-23-24-25-26-27-28-29-30-31-32-33-34
+
+
+Secondary_Aggregates,Secondary_Aggregates_pr,nan,2019,England,47,10
+Sand_And_Gravel_ex,Sand_And_Gravel_pr,nan,2019,England,3-4,7-8
+Trade,Manufacturing,nan,2019,England,42-43-44-45-46,13-14-15-16-17-18-19-20
+Processing/Production,Manufacturing,nan,2019,England,7-8-9-10-11-12,13-14-15-16-17-18-19-20
+Crushed_Rock_td,Aggregate_Use,nan,2019,England,46,32
+Processing/Production,Aggregate_use,nan,2019,England,7-8-9-10-11-12,32
+Marine_Dredged_Outside_England_Waters,Processing/Production,nan,2019,England,48,7-8-9-10-11-12
+Marine,Marine_Dredged,nan,2019,England,1,5-6
+Processing/Production,Trade,nan,2019,England,7-8-9-10-11-12,42-43-44-45-46
+Extraction,Processing/Production,nan,2019,England,2-3-4-5-6,7-8-9-10-11-12
