@@ -23,4 +23,4 @@ The codebase was operated through the probabilistic programming library PyMC v5.
   
 **Model runtime**
 
-Runtime for the England (2019) dataset was approximately 1 hour. 
+Runtime for the England (2019) dataset was approximately 40 minutes. This may vary. 
