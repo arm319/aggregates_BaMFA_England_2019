@@ -6,10 +6,11 @@ This repository comprises input stocks and flows data ('.txt' files), model comp
 **System requirements**
 
 The codebase was operated through the probabilistic programming library PyMC v5.10.3 and the Jupyter Notebook programming environment.
+Python v3.11.7 was used.
 <br>
 <br>
 
-**Python dependencies here are:**
+**Python dependencies used:**
 
 <li>pymc
 <li>arviz
@@ -20,7 +21,16 @@ The codebase was operated through the probabilistic programming library PyMC v5.
 <li>matplotlib
 <br>
 <br>
-  
+
+**Coding environment**
+
+The environment used to run the model through Conda is provided as a .yml file: 'BaMFA_Eng19_aggs.yml'
+This contains all packages and dependencies in the versions employed in our case study, for increased repeatability.
+<br>
+Guidance on creating a python environment from .yml files can be found at https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+<br>
+<br>
+
 **Model runtime**
 
 Runtime for the England (2019) dataset was approximately 40 minutes. This may vary. 
